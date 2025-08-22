@@ -1,0 +1,16 @@
+{
+	"token": "",
+	"musicBotCmdChannel": "",
+	"logChannel": "",
+	"languageCode": "pl-PL",
+	"keywords":{
+		"botTrigger": "muzyka",
+		"play": ["start", "graj", "odtwarzaj"],
+		"pause": ["pauza", "przerwa"],
+		"resume": ["wznów", "kontynuuj"],
+		"stop": ["stop", "wyłącz"],
+		"skip": ["dalej", "pomiń"],
+		"title": ["tytuł", "nazwa"],
+		"playlist": ["playlista", "playlist"]
+	}
+}
